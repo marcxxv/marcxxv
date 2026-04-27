@@ -79,9 +79,7 @@ Preparing for the **AWS Solutions Architect Associate**.
 
 <div align="center">
 
-*"The unexamined life is not worth living."*
-
-<sub>Socrates</sub>
+*"The unexamined life is not worth living." — Socrates*
 
 <br/>
 
