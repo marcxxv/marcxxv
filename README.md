@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marc Niño Christopher Ocampo
+# Marc Ocampo
 
 **AI Engineer & Researcher** · General Manager & AI Systems Engineer at Valley O'Ville Family Resort
 *AWS Certified Solutions Architect – Associate · BS Information Technology, Cum Laude*
