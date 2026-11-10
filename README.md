@@ -1,12 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Marc Ocampo, AI Engineer and Researcher" src="assets/banner-light.svg" width="900">
-</picture>
-
-General Manager & AI Systems Engineer at [Valley O'Ville Family Resort](https://valleyoville.com)<br/>
-AWS Certified Solutions Architect – Associate · BS Information Technology, Cum Laude
+<img alt="Marc Ocampo, AI Engineer and Researcher. General Manager and AI Systems Engineer at Valley O'Ville Family Resort. BS Information Technology, Cum Laude. AWS Certified Solutions Architect Associate." src="assets/banner.svg" width="900">
 
 [**Portfolio**](https://www.marcocampo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcxxv) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/marcxxv) &nbsp;·&nbsp; [X](https://x.com/marcxxv_) &nbsp;·&nbsp; [ORCID](https://orcid.org/0009-0003-8577-6923) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
 
