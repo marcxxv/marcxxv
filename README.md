@@ -2,7 +2,7 @@
 
 [**Portfolio**](https://www.marcocampo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcxxv) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/marcxxv) &nbsp;·&nbsp; [X](https://x.com/marcxxv_) &nbsp;·&nbsp; [ORCID](https://orcid.org/0009-0003-8577-6923) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
 
-<img src="assets/profile.svg" alt="Marc Ocampo, AI Engineer and Researcher. General Manager and AI Systems Engineer at Valley O'Ville Family Resort. BS Information Technology, Cum Laude. AWS Certified Solutions Architect Associate. Sections: About, Now, Selected Work, Also Built, How I Work, Stack, Credentials, Writing." width="100%">
+<a href="https://www.marcocampo.com"><img src="assets/profile.svg" alt="Marc Ocampo, AI Engineer and Researcher. General Manager and AI Systems Engineer at Valley O'Ville Family Resort. BS Information Technology, Cum Laude. AWS Certified Solutions Architect Associate. Sections: About, Now, Selected Work, Also Built, How I Work, Stack, Credentials, Writing." width="100%"></a>
 
 <sub>
 
