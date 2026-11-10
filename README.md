@@ -1,9 +1,3 @@
-<div align="center">
-
-[**Portfolio**](https://www.marcocampo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcxxv) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/marcxxv) &nbsp;·&nbsp; [X](https://x.com/marcxxv_) &nbsp;·&nbsp; [ORCID](https://orcid.org/0009-0003-8577-6923) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
-
-</div>
-
 <p>
 <a href="https://www.marcocampo.com"><img align="top" src="assets/s00.svg" alt="Marc Ocampo, AI Engineer and Researcher. General Manager and AI Systems Engineer at Valley O&#x27;Ville Family Resort. BS Information Technology, Cum Laude. AWS Certified Solutions Architect Associate. Opens the portfolio." width="100%"></a>
 <a href="https://www.marcocampo.com"><img align="top" src="assets/s01.svg" alt="About: I build applied AI systems that real people use every day, and I write about what works and what does not. Opens the portfolio." width="100%"></a>
