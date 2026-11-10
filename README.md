@@ -1,32 +1,45 @@
 <div align="center">
 
-# Marc Niño Christopher Ocampo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Marc Ocampo, AI Engineer and Researcher" src="assets/banner-light.svg" width="900">
+</picture>
 
-**AI Engineer & Researcher** · General Manager & AI Systems Engineer at Valley O'Ville Family Resort
-*AWS Certified Solutions Architect – Associate · BS Information Technology, Cum Laude*
+General Manager & AI Systems Engineer at [Valley O'Ville Family Resort](https://valleyoville.com)<br/>
+AWS Certified Solutions Architect – Associate · BS Information Technology, Cum Laude
 
-Calatagan, Batangas, Philippines
-
-<br/>
-
-[Portfolio](https://www.marcocampo.com) · [LinkedIn](https://linkedin.com/in/marcxxv) · [Hugging Face](https://huggingface.co/marcxxv) · [X](https://x.com/marcxxv_) · [ORCID](https://orcid.org/0009-0003-8577-6923) · [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
+[**Portfolio**](https://www.marcocampo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcxxv) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/marcxxv) &nbsp;·&nbsp; [X](https://x.com/marcxxv_) &nbsp;·&nbsp; [ORCID](https://orcid.org/0009-0003-8577-6923) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
 
 </div>
 
----
+<br/>
 
-## About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img alt="About" src="assets/about-light.svg" width="100%">
+</picture>
 
-I build applied AI systems that real people use every day, and I write about what works and what doesn't.
+> *I build applied AI systems that real people use every day, and I write about what works and what doesn't.*
+
 My focus is useful, calm products: assistants that show their work, research tools that respect privacy, and public data that can be traced to its source.
 
-## Now
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
+  <img alt="Now" src="assets/now-light.svg" width="100%">
+</picture>
 
 - **Valley O'Ville Family Resort** (Apr 2026 – present): General Manager and AI systems engineer. I run daily operations and built the resort's AI operations agent on [Hermes](https://github.com/NousResearch/hermes-agent), with 14 specialised skills, running around the clock on Oracle Cloud against a live ledger of 328 bookings. Every change is previewed and saved only after an explicit yes. Digitisation helped cut guest check-in from 12 to 4 minutes.
 - **SapinSapin AI** (Aug 2026 – present, volunteer): I created **Sappy**, the retrieval-augmented assistant for this open-source initiative building speech and language datasets for Philippine languages. It answers on the website and in Discord in English, Filipino and Taglish. I also design and build parts of [sapinsapin.ai](https://sapinsapin.ai).
 - **BetterCalatagan** (Oct 2026 – present): creator and lead maintainer of an independent civic portal for Calatagan, Batangas.
 
-## Selected Work
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work-dark.svg">
+  <img alt="Selected Work" src="assets/selected-work-light.svg" width="100%">
+</picture>
 
 Ranked by real-world impact: live use and users first, then public benefit, then research and tools.
 
@@ -44,22 +57,42 @@ Ranked by real-world impact: live use and users first, then public benefit, then
 | 10 | **[Public APIs Registry](https://public-apis-tau.vercel.app/)** ([source](https://github.com/marcxxv/public-apis)) | Open-source directory of 60+ free APIs with a browser testing playground. | Next.js, Framer Motion |
 | 11 | **[AWS CLF-C02 Reviewer](https://aws-reviewer-clf-c02.vercel.app)** | 400+ practice questions with explanations, multiplayer sessions and live leaderboards. | React, Firebase |
 
-More case studies: **[marcocampo.com](https://www.marcocampo.com)**
+More case studies at **[marcocampo.com](https://www.marcocampo.com)**.
 
-## How I Work
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-work-dark.svg">
+  <img alt="How I Work" src="assets/how-i-work-light.svg" width="100%">
+</picture>
 
 - **Preview first.** Anything that touches money or records shows what will change and saves only after an explicit yes.
 - **Sources over claims.** Figures carry an evidence label, and confirmed facts are kept apart from experimental ones.
 - **Human review before production.** Automation drafts and checks; a person approves.
 - **Calm interfaces.** Clarity over noise, usefulness over spectacle, consistency over hype.
 
-## Stack
+<br/>
 
-`Python` · `TypeScript` · `React` · `Next.js` · `Astro` · `Laravel` · `PostgreSQL`
-`Cloudflare Workers` · `AWS` · `Oracle Cloud` · `GitHub Actions` · `Google Apps Script`
-`Claude API` · `RAG` · `Hermes Agent` · `n8n`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack" src="assets/stack-light.svg" width="100%">
+</picture>
 
-## Credentials
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnextjs%2Castro%2Claravel%2Cpostgres%2Ccloudflare%2Caws%2Cgithubactions%2Cvercel%2Cfirebase%2Cgit&perline=14&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Creact%2Cnextjs%2Castro%2Claravel%2Cpostgres%2Ccloudflare%2Caws%2Cgithubactions%2Cvercel%2Cfirebase%2Cgit&perline=14&theme=light" alt="Python, TypeScript, JavaScript, React, Next.js, Astro, Laravel, PostgreSQL, Cloudflare, AWS, GitHub Actions, Vercel, Firebase, Git">
+  </picture>
+</p>
+
+`Claude API` · `RAG` · `Hermes Agent` · `n8n` · `Oracle Cloud` · `Google Apps Script`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/credentials-dark.svg">
+  <img alt="Credentials" src="assets/credentials-light.svg" width="100%">
+</picture>
 
 - **AWS:** Solutions Architect – Associate (Jul 2026) · AI Practitioner (Jun 2026) · Cloud Practitioner (Dec 2025)
 - **Security and IT:** Fortinet Certified Associate and Fundamentals Cybersecurity (NSE 1–3) · CompTIA ITF+ · GitHub Foundations
@@ -67,11 +100,16 @@ More case studies: **[marcocampo.com](https://www.marcocampo.com)**
 - **Education:** BS Information Technology, University of Batangas, graduated June 2026, Cum Laude, GWA 1.54, Dean's Lister
 - Full list and verification on [Credly](https://www.credly.com/users/marc-nino-christopher-ocampo)
 
-## Writing
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/writing-dark.svg">
+  <img alt="Writing" src="assets/writing-light.svg" width="100%">
+</picture>
 
 I publish essays and technical notes on AI tools, security habits, building with open models, and lessons from shipping real systems. Read them at [marcocampo.com](https://www.marcocampo.com).
 
----
+<br/>
 
 <div align="center">
 
