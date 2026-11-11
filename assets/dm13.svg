@@ -1,8 +1,8 @@
-<svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="600" height="46" viewBox="0 2105 600 46" role="img" aria-label="View all 18 projects on the portfolio."><style>
+<svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="600" height="46" viewBox="0 2105 600 46" role="img" aria-label="View all projects on the portfolio."><style>
 .e{animation:rise .7s cubic-bezier(.2,.7,.2,1) var(--d) backwards}
 .r{animation:rise .7s ease-out backwards}
 .u{transform-box:fill-box;transform-origin:0 50%;animation:draw .7s cubic-bezier(.2,.7,.2,1) calc(var(--d) + .25s) backwards}
 @keyframes rise{0%{opacity:0;transform:translateY(10px)}100%{opacity:1;transform:none}}
 @keyframes draw{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
 @media (prefers-reduced-motion:reduce){.e,.r,.u,[class^=k],[class^=b],[class^=f]{animation:none!important}}
-</style><rect x="0" y="2085" width="600" height="86" rx="12" fill="#0a0a0a"/><g class="e" style="--d:0.86s"><text x="32" y="2126.6800000000003" font-family="'IBM Plex Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#e67e22">View all 18 projects  →</text></g></svg>
+</style><rect x="0" y="2085" width="600" height="86" rx="12" fill="#0a0a0a"/><g class="e" style="--d:0.86s"><text x="32" y="2126.6800000000003" font-family="'IBM Plex Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#e67e22">View all projects  →</text></g></svg>
